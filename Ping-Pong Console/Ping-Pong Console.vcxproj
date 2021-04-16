@@ -143,6 +143,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="cBall.h" />
+    <ClInclude Include="cPaddle.h" />
     <ClInclude Include="resource.h" />
   </ItemGroup>
   <ItemGroup>

@@ -62,9 +62,9 @@ public:
 			break;
 		}
 	}
-	friend std::ostream& operator<<(std::ostream& o, cBall ball) 
+	friend std::ostream& operator<<(std::ostream& o, cBall c) 
 	{
-		o << "Ball [" << ball.x << "; " << ball.y << "], [" << ball.direction << "]";
+		o << "Ball [" << c.x << "; " << c.y << "], [" << c.direction << "]";
 		return o;
 	}
 };
