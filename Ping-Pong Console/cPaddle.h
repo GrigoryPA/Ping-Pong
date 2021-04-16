@@ -6,10 +6,7 @@ private:
 	int x, y;
 	int originalX, originalY;
 public:
-	cPaddle() 
-	{
-		x = y = 0;
-	}
+	cPaddle() { x = y = 0; }
 	cPaddle(int posX, int posY) 
 	{
 		originalX = posX;
