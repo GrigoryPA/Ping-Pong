@@ -141,6 +141,13 @@
   <ItemGroup>
     <ClCompile Include="Ping-Pong Console.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="cBall.h" />
+    <ClInclude Include="resource.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Ping-Pong Console.rc" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

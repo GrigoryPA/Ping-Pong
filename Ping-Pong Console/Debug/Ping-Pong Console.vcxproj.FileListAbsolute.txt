@@ -1,0 +1,2 @@
+C:\Users\Admin\source\repos\GrigoryPA\Ping-Pong\Ping-Pong Console\Debug\Ping-Pong Console.exe
+C:\Users\Admin\source\repos\GrigoryPA\Ping-Pong\Ping-Pong Console\Debug\Ping-Pong Console.pdb
