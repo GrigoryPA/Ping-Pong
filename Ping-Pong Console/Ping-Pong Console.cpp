@@ -6,7 +6,7 @@
 int main()
 {
     cGameManager scene(40, 20);
-    scene.Draw();
+    scene.Run();
 
     return 0;
 }
